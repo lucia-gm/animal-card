@@ -1,6 +1,10 @@
 # Animal-card
 This project is about building an animal trading card depicting my favourite animal. It is part of the Udacity program for the Front-End Nanodegree.
 
+[View online demo](https://htmlpreview.github.io/?https://github.com/lucia-gm/animal-card/blob/master/index.html)
+
+![Preview](img/preview.png)
+
 ## Credits
 The dog image is by [Stavros Kypraios](https://dribbble.com/faze).
 
